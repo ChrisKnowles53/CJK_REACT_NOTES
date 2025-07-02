@@ -1,3 +1,8 @@
+// screen.debug9() - add notes for this
+// screen.logTestingPlaygroundURL() - add notes for this
+
+
+
 //HomePage code:
 // import CreateEventBtn from './CreateEventBtn/CreateEventBtn';
 // import EventCard from './EventCard/EventCard';
